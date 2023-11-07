@@ -1,0 +1,6 @@
+path: /content/gdrive/My Drive/yolobuild/data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['building']
